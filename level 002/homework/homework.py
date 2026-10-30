@@ -1,0 +1,21 @@
+print ("git hub")
+pasword="12345678"
+program="python"
+sport="football"
+toy="ball"
+club="111"
+academy="GOA"
+hobby="drawing"
+transport="car"
+food="mwvadi"
+quatationmarks="''!<"
+print("pasword")
+print("program")
+print("sport")
+print("toy")
+print("club")
+print("academy")
+print("hobby")
+print("transport")
+print("food")
+print("quatationmarks")

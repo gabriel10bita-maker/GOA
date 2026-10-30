@@ -1,0 +1,12 @@
+num1="გამარჯობა"
+num2="კარგათ"
+print(num1)
+print(num2)
+num1=1234
+num2=5678
+print(num1)
+print(num2)
+num1=1.2
+num2=2.3
+print(num1)
+print(num2)
