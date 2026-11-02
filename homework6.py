@@ -1,0 +1,8 @@
+adress=input("enter adress")
+print (adress)
+age=input("enter age")
+print(age)
+school=input("enter school")
+print(school)
+clas=input("enter class")
+print(clas)

@@ -1,0 +1,8 @@
+name=input("enter name")
+surname=input("enter surname")
+age=input("enter age")
+hobby=input("enter hobby")
+fav_animal=input("enter an animal")
+fav_food=input("enter a dish")
+fav_sport=input("enter a sport")
+print("მე ვარ"+name+surname+age+"ჩემი საყვარელი ჰობია"+hobby+fav_animal+fav_food+fav_food+fav_sport)
