@@ -1,2 +1,3 @@
-hour=input("enter number")
-print(hour*60)
+hour=int(input("enter number"))
+print(hour/60)
+#1) დაწერეთ პროგრამა, რომელიც მომხმარებელს შეეკითხება სახელს და დაბეჭდავს მისალმებას. მაგ: "გამარჯობა ნიკა!"
